@@ -2,8 +2,8 @@ print('Converter idade para dias!')
 print('-------')
 
 ano = int(input('Quantos anos você tem? : '))
-mes = int(input('Quantos meses ? : '))
-dia = int(input('Quantos dias ? '))
+mes = int(input('Quantos meses? : '))
+dia = int(input('Quantos dias? : '))
 
 dia1 = ano * 365
 dia2 = mes * 12
