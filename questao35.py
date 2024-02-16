@@ -7,7 +7,7 @@ alg_1 = numero // 1000
 alg_2 = numero % 1000 // 100
 alg_3 = numero % 100 // 10
 alg_4 = numero % 10
+resultado = alg_1 + alg_2 + alg_3 + alg_4
 
-print('-------------')
-resultado = alg_1 + alg_2 + alg_3 + alg_4 
+print('------------')
 print(f' Resultado = {resultado}')
