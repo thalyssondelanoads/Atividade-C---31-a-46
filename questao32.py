@@ -1,4 +1,4 @@
-print('Soma de um inteiro pelo seu inverso!')
+print('Diferença de um inteiro pelo seu inverso!')
 print('------')
 
 num = int(input('Qual o número? : '))
@@ -12,4 +12,4 @@ resultado2 = (alg3 * 100) + (alg2 * 10) + (alg1)
 resultado_final = resultado1 - resultado2
 
 print('-------')
-print(f'A soma do número {num} com seu inverso é {resultado_final}!')
+print(f'A diferença do número {num} com seu inverso é {resultado_final}!')
